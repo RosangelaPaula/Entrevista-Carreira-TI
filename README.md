@@ -57,7 +57,7 @@
 | Plataforma       | O que buscar                                     | Dica prática                          |
 |------------------|--------------------------------------------------|---------------------------------------|
 | LinkedIn         | “Estágio em dados”, “Desenvolvedor Júnior”       | Ative alertas e siga empresas-alvo    |
-| Glassdoor        | “Full Stack Júnior”, “Estágio em BI”             | Leia avaliações das empresas           |
+| Glassdoor        | “Full Stack Júnior”, “Estágio em BI”             | Leia avaliações das empresas          |
 | Indeed           | “Estágio tecnologia”, “Analista de Dados Júnior” | Use filtros por cidade e tipo de vaga |
 | Gupy / Kenoby    | “Estágio em tecnologia”                          | Usadas por grandes empresas           |
 
