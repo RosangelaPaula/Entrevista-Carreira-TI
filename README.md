@@ -1,4 +1,4 @@
-# Entrevista para Carreira em Tecnologia
+> # Entrevista para Carreira em Tecnologia
 
 # Perfil e Análise de Carreira em Tecnologia
 
@@ -16,7 +16,7 @@
 ## 📊 Sugestão de Carreiras
 
 🥇 **1º Lugar: Cientista de Dados** – 18/20  
-**Por que combina com você:** afinidade com dados e sistemas, experiência financeira útil para análises, interesse em IA.  
+**Por que combina com você:** interesse em dados, sistemas e IA, experiência administrativa e financeira útil para análises.  
 **Vantagens:** alta demanda, impacto estratégico.  
 **Desafios:** curva de aprendizado em estatística e programação.  
 **Mercado:** muito aquecido em diversos setores, varia por região e experiência.
@@ -54,12 +54,12 @@
 
 ## 🧭 Dicas de Pesquisa de Vagas
 
-| Plataforma       | O que buscar                          | Dica prática                          |
-|------------------|---------------------------------------|---------------------------------------|
-| LinkedIn         | “Estágio em dados”, “Desenvolvedor Júnior” | Ative alertas e siga empresas-alvo    |
-| Glassdoor        | “Full Stack Júnior”, “Estágio em BI”  | Leia avaliações de empresas           |
+| Plataforma       | O que buscar                                     | Dica prática                          |
+|------------------|--------------------------------------------------|---------------------------------------|
+| LinkedIn         | “Estágio em dados”, “Desenvolvedor Júnior”       | Ative alertas e siga empresas-alvo    |
+| Glassdoor        | “Full Stack Júnior”, “Estágio em BI”             | Leia avaliações das empresas           |
 | Indeed           | “Estágio tecnologia”, “Analista de Dados Júnior” | Use filtros por cidade e tipo de vaga |
-| Gupy / Kenoby    | “Estágio em tecnologia”               | Usadas por grandes empresas           |
+| Gupy / Kenoby    | “Estágio em tecnologia”                          | Usadas por grandes empresas           |
 
 ---
 
