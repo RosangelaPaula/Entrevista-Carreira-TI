@@ -1,6 +1,4 @@
-
-
-> # Agente 1 - Entrevista para Carreira em Tecnologia
+> # Agent 1 - Entrevista para Carreira em Tecnologia
 
 # Perfil e Análise de Carreira em Tecnologia
 
@@ -18,7 +16,7 @@
 ## 📊 Sugestão de Carreiras
 
 🥇 **1º Lugar: Cientista de Dados** – 18/20  
-**Por que combina com você:** interesse em dados, sistemas e IA, experiência administrativa e financeira útil para análises.  
+**Por que combina com você:** conexão com dados e sistemas, experiência financeira útil para análises, interesse em IA.  
 **Vantagens:** alta demanda, impacto estratégico.  
 **Desafios:** curva de aprendizado em estatística e programação.  
 **Mercado:** muito aquecido em diversos setores, varia por região e experiência.
@@ -59,7 +57,7 @@
 | Plataforma       | O que buscar                                     | Dica prática                          |
 |------------------|--------------------------------------------------|---------------------------------------|
 | LinkedIn         | “Estágio em dados”, “Desenvolvedor Júnior”       | Ative alertas e siga empresas-alvo    |
-| Glassdoor        | “Full Stack Júnior”, “Estágio em BI”             | Leia avaliações das empresas          |
+| Glassdoor        | “Full Stack Júnior”, “Estágio em BI”             | Leia avaliações das empresas           |
 | Indeed           | “Estágio tecnologia”, “Analista de Dados Júnior” | Use filtros por cidade e tipo de vaga |
 | Gupy / Kenoby    | “Estágio em tecnologia”                          | Usadas por grandes empresas           |
 
@@ -71,154 +69,124 @@
 3. Cadastrar-se em plataformas de vagas e ativar alertas.  
 4. Buscar bootcamps e programas de formação com parcerias de contratação.  
 
-
-
 ---
-
 ---
+---
+> # Agente 2 - Planejador de Carreira
+>
 
 🧩 VISÃO DO DIA A DIA
 
-Como é o trabalho de um(a) Desenvolvedor Full Stack:
+Como é o trabalho de um(a) desenvolvedor fullstack:
 
-Criar e manter aplicações web do front-end ao back-end
-
-Modelar e consultar bancos de dados (SQL)
-
-Escrever e revisar código em linguagens como Python, JavaScript e .NET
-
-Integrar APIs e serviços externos
-
-Trabalhar em equipe com designers, analistas e outros devs
+- Criar e manter aplicações web (frontend e backend)
+- Modelar e consultar bancos de dados (SQL)
+- Escrever APIs para comunicação entre sistemas
+- Testar e corrigir bugs em código
+- Colaborar com equipes de design e produto
 
 ---
 
-🧠 MAPA DE SKILLS (reordenado)
+🧠 MAPA DE SKILLS
 
 CORE SKILLS (essenciais):
-
-Git e GitHub (versionamento e portfólio)
-
-Lógica de programação e algoritmos
-
-Banco de dados (SQL)
+- Lógica de programação e algoritmos
+- Desenvolvimento web (HTML, CSS, JavaScript)
+- Programação em Python e C#
 
 NICE-TO-HAVE (complementares):
-
-Desenvolvimento web (HTML, CSS, JavaScript)
-
-Noções de .NET e Python para back-end
+- Noções de arquitetura de software
+- Versionamento com Git/GitHub
 
 FERRAMENTAS E TECNOLOGIAS:
-
-GitHub (primeiro passo)
-
-Python
-
-.NET (C#)
-
-SQL Server / PostgreSQL
+- SQL Server / MySQL
+- .NET Core
+- Frameworks frontend (React ou Angular)
 
 ---
 
-📅 ROADMAP DE 180 DIAS (com GitHub primeiro)
+📅 ROADMAP DE 180 DIAS
 
 ADAPTADO PARA: 21h horas/semana
 
 MÊS 1 - FUNDAMENTOS
+
 SEMANA 1-2:
-
-Criar conta no GitHub e configurar Git local
-
-Aprender comandos básicos: git init, git add, git commit, git push
-
-Criar seu primeiro repositório e subir arquivos de estudo
+- Aprender lógica de programação com Python
+- Introdução a Git e GitHub
 
 SEMANA 3-4:
-
-Lógica de programação com Python
-
-Estruturas de dados básicas (listas, dicionários, loops)
-
-Documentar exercícios no GitHub (README.md)
+- Fundamentos de HTML, CSS e JavaScript
+- Criar páginas simples e responsivas
 
 ---
 
 MÊS 2 - PRÁTICA
+
 SEMANA 5-6:
-
-HTML e CSS básicos
-
-Criar páginas estáticas e publicar no GitHub Pages
+- Introdução ao C# e .NET Core
+- Criar APIs simples com C#
 
 SEMANA 7-8:
+- Banco de dados SQL: modelagem e consultas
+- Conectar backend com banco de dados
 
-JavaScript básico (DOM, eventos)
-
-Pequenos projetos front-end versionados no GitHub
+---
 
 MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
 SEMANA 9-10:
-
-Banco de dados SQL: consultas, joins
-
-Criar scripts SQL e subir no GitHub
+- Criar frontend com React ou Angular
+- Consumir APIs criadas no backend
 
 SEMANA 11-12:
-
-API simples em .NET ou Python
-
-Projeto integrando front-end + back-end + banco
-
-Publicar e documentar no GitHub
+- Projeto integrador fullstack (frontend + backend + banco de dados)
+- Publicar no GitHub e documentar
 
 ---
 
 🚀 PROJETO DE PORTFÓLIO
 
-PROJETO: Sistema de Gerenciamento de Tarefas (To-Do App Full Stack)
+PROJETO: Sistema de Gerenciamento de Tarefas (To-Do List Fullstack)
 
-O QUE FAZER:  
-Construir uma aplicação web com CRUD de tarefas, autenticação simples e persistência em banco de dados.
+O QUE FAZER:
+Criar uma aplicação web onde usuários possam cadastrar, editar e excluir tarefas, com autenticação e persistência em banco de dados.
 
 ENTREGÁVEIS:
-
-Repositório GitHub com código e documentação
-
-Front-end funcional (HTML, CSS, JS)
-
-API REST em .NET ou Python
-
-Banco de dados SQL integrado
+- Backend em C# com API REST
+- Banco de dados SQL para armazenar tarefas
+- Frontend em React consumindo a API
 
 CRITÉRIOS DE ACEITAÇÃO:
+- Usuário consegue criar, editar e excluir tarefas
+- Autenticação básica (login/senha)
+- Interface responsiva e funcional
 
-CRUD completo de tarefas
-
-Autenticação básica
-
-Deploy em ambiente gratuito (Heroku, Vercel ou Azure Free)
-
-DICA: Use o GitHub para registrar cada etapa do projeto (commits pequenos e frequentes).
+DICA: Comece pelo backend simples e vá adicionando funcionalidades no frontend.
 
 ---
 
 💬 ROTEIRO DE ENTREVISTAS
 
-PERGUNTA 1: "O que é um banco de dados relacional?"
-COMO RESPONDER: Explique que é um sistema que organiza dados em tabelas relacionadas, usando SQL para consultas.
+PERGUNTA 1: "Você já trabalhou com versionamento de código?"
+COMO RESPONDER:
+Explique que estudou Git/GitHub, cite exemplos de commits e branches.
 
-PERGUNTA 2: "Qual a diferença entre front-end e back-end?"
-COMO RESPONDER: Front-end é a interface que o usuário vê, back-end é a lógica e o acesso a dados.
+PERGUNTA 2: "Qual linguagem você prefere e por quê?"
+COMO RESPONDER:
+Cite Python pela clareza e C# pela robustez, mostrando que domina ambas.
 
 PERGUNTA 3: "Explique o que é uma API."
-COMO RESPONDER: É um conjunto de endpoints que permitem comunicação entre sistemas, geralmente via HTTP.
+COMO RESPONDER:
+Defina como um conjunto de endpoints que permitem comunicação entre sistemas, cite seu projeto.
 
-PERGUNTA 4: "Você já trabalhou em projetos em equipe?"
-COMO RESPONDER: Cite experiências acadêmicas ou pessoais, enfatizando uso de GitHub e colaboração.
+PERGUNTA 4: "Como você organiza seu aprendizado?"
+COMO RESPONDER:
+Mostre disciplina: 21h semanais, roadmap estruturado, projetos práticos.
 
-PERGUNTA 5: "Como você organiza seu aprendizado em tecnologia?"
-COMO RESPONDER: Mostre disciplina, cite o roadmap, projetos práticos e uso de plataformas como DIO.
+PERGUNTA 5: "Você já fez algum projeto prático?"
+COMO RESPONDER:
+Apresente o sistema de tarefas, explique tecnologias usadas e desafios superados.
 
 ---
 
@@ -226,58 +194,15 @@ COMO RESPONDER: Mostre disciplina, cite o roadmap, projetos práticos e uso de p
 
 TRILHA: Bootcamp Santander Fullstack Developer
 
-POR QUE ESSA TRILHA:  
-Além de cobrir front-end e back-end, ela incentiva o uso do GitHub para projetos e desafios, alinhando com seu objetivo de começar pelo versionamento.
+POR QUE ESSA TRILHA:
+Ela cobre fundamentos de frontend, backend, banco de dados e práticas de mercado, alinhada ao seu objetivo de transição para desenvolvedor fullstack.
+
+PRÓXIMOS PASSOS:
+1. Acesse dio.me
+2. Busque por "Bootcamp Santander Fullstack Developer"
+3. Inscreva-se gratuitamente
+4. Siga o cronograma junto com este roadmap
 
 ---
 
-📌 Cursos de JavaScript para Iniciantes
-JavaScript do Zero – Trybe (gratuito)  
-Curso introdutório com 10 horas de conteúdo, mais de 40 exercícios práticos e certificado. Ideal para quem nunca programou. 
-
-JavaScript Básico para Iniciantes – Udemy (pago)  
-Curso de 6 horas cobrindo fundamentos, boas práticas e exercícios práticos. 
-
-Curso Grátis de JavaScript e ECMAScript – Curso em Vídeo (YouTube)  
-Ministrado por Gustavo Guanabara, com 6 módulos (DOM, condições, laços, fundamentos). Muito popular no Brasil. 
-
-📌 Cursos de C# Completo para Iniciantes
-Curso Completo C# do Iniciante ao Profissional – YouTube (Zatec App)  
-Playlist com 73 vídeos cobrindo desde instalação do Visual Studio até orientação a objetos e arrays. 
-
-C# Curso Completo: Do Básico ao Avançado – Udemy (pago)  
-Curso estruturado com 4,7 estrelas e mais de 12 mil alunos. Inclui algoritmos, OO, LINQ e recursos avançados. 
-
-Microsoft Learn – Introdução ao C# (gratuito)  
-Roteiro oficial da Microsoft com 6 módulos para aprender sintaxe básica, variáveis e primeiros programas. 
-
-📌 Cursos de SQL Server para Iniciantes
-Curso Completo de SQL com SQL Server – YouTube (Boson Treinamentos)  
-Curso gratuito que vai do básico ao avançado, cobrindo SQL Server 2022. 
-
-Microsoft Learn – Recursos Educativos de SQL Server (gratuito)  
-Tutoriais oficiais da Microsoft com inícios rápidos, laboratórios práticos e fundamentos de T-SQL. 
-
-SQL Server Expert – Formação Completa (pago)  
-Curso avançado com foco em administração e alta disponibilidade, indicado para quem quer se tornar DBA. 
-
----
-
-📊 Comparativo Rápido
-Tecnologia |Curso Gratuito	                              |Curso Pago	       |Plataforma Oficial
-JavaScript |Curso em Vídeo (YouTube), Trybe               |Udemy	           |–
-C#	       |YouTube (Zatec App), Microsoft Learn	        |Udemy	           |Microsoft Learn
-SQL Server |Boson Treinamentos (YouTube), Microsoft Learn |SQL Server Expert |Microsoft Learn
----
-✅ Sugestão de ordem de estudo:
-
-GitHub (já alinhado ao seu roadmap) – crie repositórios para cada curso.
-
-JavaScript – para ganhar base em front-end.
-
-C# – para back-end com .NET.
-
-SQL Server – para consolidar banco de dados.
-
----
-
+✨ Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
